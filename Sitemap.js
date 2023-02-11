@@ -46,7 +46,7 @@ display: none !important;
 </style>
 
 <div id="theapurbotimes">
-<script src="https://amanbhattarai4400.github.io/csshosting/sitemap.js" type="text/javascript"></script>
+<script src="https://github.com/tajulisalmapurbo/theapurbotimes/blob/main/Sitemap.js" type="text/javascript"></script>
 <script src="https://theapurbotimes.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
 </script></div>
 
