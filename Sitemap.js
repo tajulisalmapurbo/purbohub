@@ -47,6 +47,6 @@ display: none !important;
 
 <div id="twistblogg">
 <script src="https://amanbhattarai4400.github.io/csshosting/sitemap.js" type="text/javascript"></script>
-<script src="https://twistblogg.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
+<script src="https://theapurbotimes.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
 </script></div>
 
