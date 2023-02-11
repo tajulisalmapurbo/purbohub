@@ -45,7 +45,7 @@ display: none !important;
 @media only screen and (max-width: 1089px) and (min-width: 980px) { #content { width: 100% !Important; } }  @media only screen and (max-width: 979px) and (min-width: 768px) { #content { width: 100% !Important; } } @media only screen and (max-width: 767px) and (min-width: 480px) { #content { width: 100% !Important; } }  @media only screen and (max-width: 479px) { #content { width: 100% !Important; } }
 </style>
 
-<div id="twistblogg">
+<div id="theapurbotimes">
 <script src="https://amanbhattarai4400.github.io/csshosting/sitemap.js" type="text/javascript"></script>
 <script src="https://theapurbotimes.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
 </script></div>
